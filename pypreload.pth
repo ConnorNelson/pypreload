@@ -1,0 +1,1 @@
+import pypreload; pypreload.install_hooks()
